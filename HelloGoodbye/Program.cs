@@ -13,6 +13,7 @@ namespace HelloGoodbye
             Console.WriteLine("Hello");
             Console.ReadKey();
             Console.WriteLine("Goodbye");
+            Console.ReadKey();
         }
     }
 }
